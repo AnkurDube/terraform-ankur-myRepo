@@ -1,1 +1,1 @@
-# terraform-aws-mystorage
+# terraform-aws-myRepo
